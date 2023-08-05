@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+/Debug
+/Release
+/.mxproject
+/.settings
+/mx.scratch
